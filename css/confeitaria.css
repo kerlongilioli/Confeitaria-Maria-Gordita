@@ -1,0 +1,43 @@
+
+
+.historia{
+    background-color:#cccc00;
+    width: 100%;
+    color: #000000;
+    padding: 10px;
+    border-radius: 10px;
+}
+.titulo_historia{
+    color: #ffffff;
+    background-color: #000000;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.icone{
+    width: 40px;
+    padding-top: 10px;
+}
+.contato{
+    background-color: #000000;
+    color: white;
+}
+
+.confeiteiro{
+    overflow: hidden;
+    height: 500px;
+}
+
+.confeiteiro img{
+    width: 100%;
+}
+.produto .card-img-top img{
+    height: auto;
+    max-height: 210px;
+}
+.produto .card-img-top{
+    height: 200px;
+    min-width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
